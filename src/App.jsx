@@ -11,7 +11,7 @@ import Papa from 'papaparse';
 // 3. Selecciona la hoja y formato "CSV"
 // 4. Copia la URL y pégala aquí
 // ============================================================
-const GOOGLE_SHEET_CSV_URL = 'https://docs.google.com/spreadsheets/d/e/TU_ID_AQUI/pub?output=csv';
+const GOOGLE_SHEET_CSV_URL = 'https://docs.google.com/spreadsheets/d/e/2PACX-1vQ3FJqRI-QlR1ngdGiq8IXu9EQfallJ5rjxj1T1AjRNbLgOQ7p5Dqlv_JINWUolww/pub?gid=644677782&single=true&output=csv';
 
 // Colores de encuestadoras
 const pollsterColors = {
