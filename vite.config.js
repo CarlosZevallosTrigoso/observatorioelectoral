@@ -3,5 +3,5 @@ import react from '@vitejs/plugin-react'
 
 export default defineConfig({
   plugins: [react()],
-  base: '/observatorio-electoral/', // Cambia esto al nombre de tu repositorio
+  base: '/observatorioelectoral/', // Cambia esto al nombre de tu repositorio
 })
